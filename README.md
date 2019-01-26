@@ -1,7 +1,7 @@
 # Colab
 ### : *repo for practicing machine learning from other people's code*
 
-Objective: Plans to make 100 notes from other people's code works.
+* Objective: Making 100 notes from other people's code works.
 <br>
 <br>
 -
