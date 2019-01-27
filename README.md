@@ -9,6 +9,7 @@ This project has the purpose of imporving practical skills in machine learning a
 
 ![groot](https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif)
 
+<br>
 
 ## ***2. File Details***
 **Day Start :** 23 Jan, 2019 ~ (*in progress*)
