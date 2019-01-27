@@ -9,13 +9,9 @@ This project has the purpose of imporving practical skills in machine learning a
 
 ![groot](https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif)
 
-<br>
-
-* **Project Date:** Jan, 2019 ~ (in progress)
-
-<br>
 
 ## ***2. File Details***
+**Day Start :** 23 Jan, 2019 ~ (*in progress*)
 - 96_cnn_doodle.ipynb: Image classification of quick draw.
 - 97_cnn_digit.ipynb: Simple MNIST digit data. Simple CNN
 - 98_cnn_breed.ipynb: Image classification of Dog breeds. Using VGG19  
