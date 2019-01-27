@@ -15,7 +15,7 @@ This project has the purpose of imporving practical skills in machine learning a
 
 * **Applied skills:** From regression to classification, from machine learning to deep learning.
 
-* **Publication:** after finishing this challenge, planning to write and share what I learn from it.  
+* **Publication:** *(After finishing this challenge, planning to write and share what I learn from it)*  
 
 <br>
 
