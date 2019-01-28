@@ -5,6 +5,7 @@
 
 ## ***1. Coding Challenge***
 This project has the purpose of imporving practical skills in machine learning and artificial intelligence. After finishing the deep learning sepcialization, I decided to start **coding-centered** studying. The goal of this project is to make 100 notes for reading and learning from other people's code on Kaggle or Github. It'll defintely be challenging yet is expected to bring a huge growth in skills. Just like groot. 
+
 <br>
 
 ![groot](https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif)
