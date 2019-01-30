@@ -21,10 +21,10 @@ This project has the purpose of imporving practical skills in machine learning a
 <br>
 
 ## ***2. File Details***
-- 96_cnn_doodle.ipynb: Image classification of quick draw
-- 97_cnn_digit.ipynb: Simple MNIST digit data. Simple CNN
-- 98_cnn_breed.ipynb: Image classification of Dog breeds. Using VGG19  
-- 99_easiest_CNN.ipynb: Image classification of cats and dogs. Simple CNN
+- [96_cnn_doodle.ipynb](https://github.com/jjone36/Groot/blob/master/96_cnn_Doodle.ipynb): Image classification of quick draw
+- [97_cnn_digit.ipynb](https://github.com/jjone36/Groot/blob/master/97_cnn_digit.ipynb): Simple MNIST digit data. Simple CNN
+- [98_cnn_breed.ipynb](https://github.com/jjone36/Groot/blob/master/98_cnn_breed.ipynb): Image classification of Dog breeds. Using VGG19  
+- [99_easiest_CNN.ipynb](https://github.com/jjone36/Groot/blob/master/99_easiest_CNN.ipynb): Image classification of cats and dogs. Simple CNN
 
 <br>
 
