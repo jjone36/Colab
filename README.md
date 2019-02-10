@@ -21,6 +21,7 @@ This project has the purpose of imporving practical skills in machine learning a
 <br>
 
 ## ***2. File Details***
+- [93_cnn_Tensorflow.jpynb](https://www.kaggle.com/jjone36/the-easiest-code-for-classifying-flowers-tf): Flower image classfication with Tensorflow
 - [94_cnn_NeuralStyler.ipynb](https://github.com/jjone36/Groot/blob/master/94_cnn_NeuralStyler.ipynb): Neural Style Transfer with Tensorflow 
 - [95_cnn_invasive.jpynb](https://github.com/jjone36/Groot/blob/master/95_cnn_Invasive.ipynb): Image dector for invasive species of Hydrangea (Unable to run due to limitness of my machine...) 
 - [96_cnn_doodle.ipynb](https://github.com/jjone36/Groot/blob/master/96_cnn_Doodle.ipynb): Image classification of quick draw
